@@ -1,13 +1,12 @@
 ## Hi there 👋
 <h1 align="center">I'm Shubhankar Marathe</h1>
-<h3 align="center">Full Stack MERN Developer | Programmer | Tech Learner</h3>
+<h3 align="center">MERN stack Developer | Programmer | Tech Learner</h3>
 
 ---
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **MERN Projects**  
 - 🌱 Learning **TypeScript, DevOps & React Native**  
-- 💼 Building my SaaS **SDrive: A Cloud Storage App**  
 - 🎯 Goal: Become a full-stack & mobile app developer  
 - ⚡ Fun fact: I love building new projects & exploring tech
 
