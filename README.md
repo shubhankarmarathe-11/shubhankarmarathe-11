@@ -28,28 +28,18 @@ Git • GitHub • Postman • Linux • VS Code
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="160"/>
-</p>
-
 ---
 
 ### 📫 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://www.linkedin.com/in/shubhankar-marathe-266a102a6/" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="25"/>
 </a>
-<a href="mailto:your-email@gmail.com">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<a href="mailto:shubhamkarmarathe2@gmail.com">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="25"/>
+</a>
+  <a href="https://www.instagram.com/maratheshubhankar/" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="25"/>
 </a>
 </p>
 
